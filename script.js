@@ -1,1 +1,1 @@
-console.log('master amend')
+console.log('commit')
